@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1694686127 source:c:\users\jl\desktop\practical_training\course004_0914\main.cpp
+	<algorithm>
+	<vector>
+	<iostream>
+	<algorithm>
+	<vector>
+	<cmath>
+	<string>
+	<vector>
+	<string>
+	<vector>
+	<algorithm>
+	<map>
+
